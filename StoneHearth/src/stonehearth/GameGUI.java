@@ -74,7 +74,7 @@ public class GameGUI extends javax.swing.JFrame {
         myHandCard2 = d.draw();
         myHandCard3 = d.draw();
         
-        kienan.setMana(100000000);
+        kienan.setMana(1);
         
         myHand1.setIcon(new javax.swing.ImageIcon(getClass().getResource("/stonehearth/images/" + myHandCard1.getName() + ".png")));
         myHand2.setIcon(new javax.swing.ImageIcon(getClass().getResource("/stonehearth/images/" + myHandCard2.getName() + ".png")));
