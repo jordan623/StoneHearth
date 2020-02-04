@@ -12,6 +12,10 @@ Once a card is played onto the field, it can attack either a card, or the enemie
 
 The game ends when either player reaches 0 hit points.
 
+![Help Page Image](https://i.ibb.co/CzQhP4F/stonehearth-Help.png)
+
+![Battle Image](https://i.ibb.co/GQ4wK2J/stonehearth-Battle.png)
+
 ## Future
 When we first added the card functionality we had made it as simple as we could to add new cards. Right now there is only 15 cards total (2 copies of each for a total of 30).
 
